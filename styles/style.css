@@ -473,6 +473,7 @@ input {
         display: grid;
         grid-template-columns: 1fr 1fr;
         grid-template-rows: 1fr 1fr;
+        align-content: center;
         margin-top: 10%;
         margin-left: 10%;
     }
