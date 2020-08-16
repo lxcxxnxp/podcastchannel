@@ -1,0 +1,17 @@
+font-family: 'IBM Plex Mono', monospace;
+font-family: 'IBM Plex Sans', sans-serif;
+
+<i class="fab fa-spotify"></i>
+<i class="fab fa-instagram"></i>
+<i class="fab fa-twitter"></i>
+<i class="fab fa-facebook"></i>
+<i class="fab fa-telegram"></i>
+<i class="fas fa-bars"></i>
+
+<h1 id="hello"> Hello</h1>
+        <h1 id="world">world</h1>
+        <h1 id="pale">pale</h1>
+        <h1 id="blue">blue dot</h1>
+        <h1 id="dot">.</h1>
+
+linear-gradient(#0000FF, #0000A3)
