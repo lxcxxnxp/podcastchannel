@@ -42,7 +42,9 @@ nav {
 
 input:checked~ul {
     display: block;
+  
 }
+
 
 header .logo {
     margin: 1em;
@@ -136,7 +138,7 @@ h2 {
     align-self: center;
     margin-top: 7em;
     width: 85vw;
-    height: 70vw;
+    height: 225px;
     z-index: 200;
     border: none;
 }
@@ -144,7 +146,7 @@ h2 {
 #podcast2 {
     align-self: center;
     width: 85vw;
-    height: 70vw;
+    height: 225px;
     z-index: 200;
     border: none;
 }
@@ -152,7 +154,7 @@ h2 {
 #podcast3 {
     align-self: center;
     width: 85vw;
-    height: 70vw;
+    height: 225px;
     z-index: 200;
     border: none;
 }
@@ -160,7 +162,7 @@ h2 {
 #podcast4 {
     align-self: center;
     width: 85vw;
-    height: 70vw;
+    height: 225px;
     z-index: 200;
     border: none;
 }
@@ -176,7 +178,7 @@ h2 {
 
 #phone {
     align-self: center;
-    width: 360px;
+    width: auto;
     height: 519px;
 }
 
@@ -640,4 +642,3 @@ input {
 }
 
 
-/*# sourceMappingURL=style.css.map */
