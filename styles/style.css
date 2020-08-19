@@ -384,6 +384,7 @@ input {
     li a:hover {
         color: #00F3BB;
     }
+    
     li a:active {
         color: #060A24;
         text-decoration: line-through;
